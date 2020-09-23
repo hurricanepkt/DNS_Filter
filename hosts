@@ -1,0 +1,8 @@
+# Title: hurricanepkt/DNS_Filter
+#
+# This hosts file is a clone of 
+# Project home page: https://github.com/StevenBlack/hosts
+#
+# ===============================================================
+
+0.0.0.0 secure.winred.com
